@@ -1,0 +1,14 @@
+/Users/joao/RiderProjects/Dealership - POO/Dealership/bin/Debug/net8.0/Dealership
+/Users/joao/RiderProjects/Dealership - POO/Dealership/bin/Debug/net8.0/Dealership.deps.json
+/Users/joao/RiderProjects/Dealership - POO/Dealership/bin/Debug/net8.0/Dealership.runtimeconfig.json
+/Users/joao/RiderProjects/Dealership - POO/Dealership/bin/Debug/net8.0/Dealership.dll
+/Users/joao/RiderProjects/Dealership - POO/Dealership/bin/Debug/net8.0/Dealership.pdb
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.AssemblyInfoInputs.cache
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.AssemblyInfo.cs
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.csproj.CoreCompileInputs.cache
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.dll
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/refint/Dealership.dll
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.pdb
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/Dealership.genruntimeconfig.cache
+/Users/joao/RiderProjects/Dealership - POO/Dealership/obj/Debug/net8.0/ref/Dealership.dll

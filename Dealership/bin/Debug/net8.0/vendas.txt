@@ -1,0 +1,12 @@
+Venda realizada em 20/11/2025 16:11:12
+Carro | Chevrolet Onix - R$ 75.000,00 x 1 = R$ 75.000,00
+Total: R$ 75.000,00
+-----------------------------
+Venda realizada em 20/11/2025 16:14:43
+Carro | Chevrolet Onix - R$ 75.000,00 x 1 = R$ 75.000,00
+Total: R$ 75.000,00
+-----------------------------
+Venda realizada em 20/11/2025 16:15:14
+Carro | Honda Civic - R$ 120.000,00 x 1 = R$ 120.000,00
+Total: R$ 120.000,00
+-----------------------------
